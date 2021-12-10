@@ -1,0 +1,7 @@
+,slug,name,parent_slug
+0,china_main,China Main,
+1,northern_europe,Northern Europe,
+15,china_east_main,China East Main,china_main
+16,china_south_main,China South Main,china_main
+18,scandinavia,Scandinavia,northern_europe
+2,stockholm_area,Stockholm Area,scandinavia
