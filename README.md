@@ -22,3 +22,6 @@ To get test coverage
 `coverage run manage.py test --keepdb`
 
 `coverage report`
+
+## API Usage
+`http://localhost:4000/rates/?date_from=2016-01-01&date_to=2016-01-05&origin=china_main&destination=north_europe_main`
